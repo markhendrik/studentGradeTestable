@@ -1,0 +1,6 @@
+
+1. Kirjutada üle (override) TestableStudent-is meetod getEntriesBetween, et see tagastaks fikseeritud
+väärtuse.
+
+2. Kirjutada TestableGradeSheetis meetod verifyEntry. See meetod peab vaatama,
+kas hinde numriline hinnang on kooskõlas sõnalisega ja tagastama sellise sissekande, kus mõlemad osad oleks olemas.
